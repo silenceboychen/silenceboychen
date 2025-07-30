@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @morty
-- 👀 I’m interested in nodejs、golang、cloud native etc..
-- 🌱 I’m currently learning goland‘s Microservice Framework and k8s
+- 👀 I’m interested in nodejs、python、AI Agent etc..
+- 🌱 I’m currently working on AI Agent and MCP services
 - 📫 How to reach me
   * email: silenceboychen@gmail.com
   * personal webpage：www.silenceboy.com
