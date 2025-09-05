@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Morty | 你好，我是 Morty
 
 [![Personal Blog](https://img.shields.io/badge/Blog-silenceboy.com-blue?logo=wordpress)](https://www.silenceboy.com/)
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=silenceboychen&show_icons=true&theme=tokyonight)](https://github.com/silenceboychen)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silenceboychen&layout=compact&theme=tokyonight)](https://github.com/silenceboychen)
 
 ---
